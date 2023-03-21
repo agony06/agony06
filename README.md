@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @agony06
-- 👀 I’m interested in ...berserk
-- 🌱 I’m currently learning ...cs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in nothing
+- I’m currently learning python
 
 <!---
 agony06/agony06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
